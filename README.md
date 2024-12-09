@@ -23,7 +23,7 @@ Utilizes Llama 3.1 8B Instruct for classification and summarization.
     ```
     pip install -r requirements.txt]
     ```
-4. Procure API key from <a href="www.together.xyz"> here </a> and save in .env file in root directory. The API is free and used so that the application performance does not depend on GPU unavailiblity.
+4. Procure API key from <a href="https://www.together.ai/"> here </a> and save in .env file in root directory. The API is free and used so that the application performance does not depend on GPU unavailiblity.
 
 ## Usage
 Run the main script to start the application:
