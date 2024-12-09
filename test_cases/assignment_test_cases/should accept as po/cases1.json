@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Purchase Order",
+        "body": "Dear Mam, Please find attached herewith our Purchase Order . Regards, Mamta",
+        "attachments": ["test_cases/assignment_test_cases/should accept as po/60 - Vaishnav - 25.06.2024 (MO screw).xlsx"],
+        "links": []
+    },
+    {
+        "subject": "Fastners_ Requirement Nov'24 ,Dec'24 & Jan'24",
+        "body": "Dear Sir/Madam, Please refer requirements as mention below for month of Nov-2024. Please plan your actions accordingly.Kindly send us acknowledgment of same with raw material availability for M1 & M2 QTY Receipt Balance | Dispatch CAT No. Mt M2 M3 till to required (Nov) | (Dec) | (Jan) | 49 44.2024 | dispatch on 45th S$T42599 48000 | 48000 | 48000 0 48000 Nov 42th $T41838 60000 | 50000 | 50000 0 60000 Nov 45th XS01484 42000 | 45000 | 45000 0 42000 Nov 2th CL60235T | 1500 2500 4000 0 1500 Nov 2th CL60281 7000 8000 8000 3000 4000 Nov 2th CL60223 5000 4000 4500 2000 3000 Nov 2th CL60222 6000 | 30000 | 30000 0 6000 Nov 2th CL60234 7000 8000 8000 3500 3500 Nov 2th XS01217 10000 | 10000 | 10000 10000 Nov Regards,",
+        "attachments": [],
+        "links": []
+    },
+    {
+        "subject": "PO.No. 24250341",
+        "body": "Dear sir, Please find the attachment of our PO NO- 24250341 Dated-25/11/2024 Kindly confirm the PO & arrange the material. Warm Regards, RAG ADS COMME Manufacturing Services",
+        "attachments": ["test_cases/assignment_test_cases/should accept as po/PurchaseOrder (1).pdf"],
+        "links": []
+    },
+    {
+        "subject": "VA PO23008082",
+        "body": "Dear Sir, Kindly find enclosed PO & arrange the material as per delivery date mentioned in PO Please acknowledge the receipt of same and send us PO acceptance at the earliest. Also we request you to deliver material against this PO as per delivery date mentioned in PO. Note- 1) Delivery achievement 100% 2) Achieve 3R : Right Quantity, Right Quality, Right Time. 3) Ensure completion of entire delivery schedule as per delivery date mentioned on PO. 4) Mention our purchase order no. on your invoice. 5) Mention Esbee Part No. in your Invoice. 6) Send material PDIR & Test Certificate, ROHS Certificate along with invoice. 8) Maintained Standard Packing. 9) Quantity Should not More-than PO Qty. Thanking you in advance and awaiting for PO acceptance Thanks & Regards,",
+        "attachments": ["test_cases/assignment_test_cases/should accept as po/Vaishnav_PO23008082.pdf"],
+        "links": []
+    },
+    {
+        "subject": "pendign order",
+        "body": "Dear Sirs., Kindly arrange to supply the below items urgently Jul 8, 2024, 10:28AM yy CO - 01075 23/May/2024/4 10543 0100360135 TERMINAL SCREW 41000.00) CO - 01149 27/May/2024/432043 0100360135 TERMINAL SCREW 25000.00 FIXED CONTACT SCREW ASSEMBLY CO - 01414 08/Tun/2024|444043 0000360135 100000.00) CO - 01462 11/Jun/2024/433243 0100360135 TERMINAL SCREW 50000.00 CO - 01478 12/Tun/2024|432043 0100360135 TERMINAL SCREW 25000.00 Regards Chill—M.S SALZER",
+        "attachments": [],
+        "links": []
+    }
+]

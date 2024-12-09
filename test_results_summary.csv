@@ -1,0 +1,16 @@
+Test Case,Type,Subject,Classification,Status
+1,is_po,Purchase Order,"purchase order, invoice",Passed
+2,is_po,"Fastners_ Requirement Nov'24 ,Dec'24 & Jan'24","purchase order, dispatch notification",Passed
+3,is_po,PO.No. 24250341,"purchase order, purchase order email",Passed
+4,is_po,VA PO23008082,"purchase order email
+classification: purchase order email",Passed
+5,is_po,pendign order,"Purchase Order, 
+Specifically: Urgent Order",Passed
+6,not_po,Re: VF-161/2024/10/30 RFQ-EM69551/EM69125,"Non-purchase order email, 
+Classification: Enquiry",Passed
+7,not_po,Invoice Copy for the Month of June-2024.,"Non-purchase order email, Invoice request.",Passed
+8,not_po,ROHS and REACH declarations.,"Non-purchase order, Enquiry",Passed
+9,not_po,Required net wt for STO0170/XS01203/ST40278,"Non-purchase order email
+Classification: Enquiry",Passed
+10,not_po,Required packing slip on polybag & box,"Non-purchase order email, 
+Classification: complaint",Passed
